@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.3"></a>
+## [0.2.3](https://github.com/droshev/semver-test/compare/v0.2.2...v0.2.3) (2019-10-19)
+
+
+### Bug Fixes
+
+* add a command ([#10](https://github.com/droshev/semver-test/issues/10)) ([ed875b2](https://github.com/droshev/semver-test/commit/ed875b2))
+
+
+
 <a name="0.2.2"></a>
 ## [0.2.2](https://github.com/droshev/semver-test/compare/v0.2.1...v0.2.2) (2019-10-19)
 
