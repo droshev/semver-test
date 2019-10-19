@@ -1,0 +1,23 @@
+{
+  "name": "deno-semver-test",
+  "version": "0.0.0-rc.1",
+  "description": "Deno Semantic Version Test",
+  "main": "index.js",
+  "dependencies": {
+    "standard-version": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droshev/semver-test.git"
+  },
+  "author": "Deno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/droshev/semver-test/issues"
+  },
+  "homepage": "https://github.com/droshev/semver-test#readme"
+}
