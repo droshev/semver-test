@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.2.2"></a>
+## [0.2.2](https://github.com/droshev/semver-test/compare/v0.2.1...v0.2.2) (2019-10-19)
+
+
+### Bug Fixes
+
+* revert sem ver version to 4.4 ([#9](https://github.com/droshev/semver-test/issues/9)) ([38d4bef](https://github.com/droshev/semver-test/commit/38d4bef))
+
+
+
 <a name="0.2.1"></a>
 ## [0.2.1](https://github.com/droshev/semver-test/compare/v0.2.0...v0.2.1) (2019-10-19)
 
