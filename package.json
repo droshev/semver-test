@@ -1,6 +1,6 @@
 {
   "name": "deno-semver-test",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Deno Semantic Version Test",
   "main": "index.js",
   "dependencies": {},
