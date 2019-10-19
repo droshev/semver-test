@@ -5,12 +5,13 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "semantic-release": "^15.13.27",
     "standard-version": "^4.4.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
-    "release:create": "create-release",
+    "release1": "semantic-version",
     "github-release": "conventional-github-releaser -p angular -r 0"
   },
   "repository": {
