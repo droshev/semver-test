@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
+    "release:create": "create-release",
     "github-release": "conventional-github-releaser -p angular -r 0"
   },
   "repository": {
