@@ -4,3 +4,4 @@ Testing Semantic Versioning
 2. new change
 3. new change
 4. new change
+5. new change
