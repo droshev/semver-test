@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.0.2"></a>
+## [0.0.2](https://github.com/droshev/semver-test/compare/v0.0.0...v0.0.2) (2019-10-19)
+
+
+### Bug Fixes
+
+* test ([#4](https://github.com/droshev/semver-test/issues/4)) ([720c632](https://github.com/droshev/semver-test/commit/720c632))
+
+
+
 <a name="0.0.1"></a>
 ## [0.0.1](https://github.com/droshev/semver-test/compare/v0.0.0...v0.0.1) (2019-10-19)
 
