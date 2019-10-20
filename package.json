@@ -7,14 +7,14 @@
   "devDependencies": {
     "github-assistant": "^0.3.0",
     "semantic-release": "^15.13.27",
-    "standard-version": "^4.4.0",
-    "release:create": "create-release"
+    "standard-version": "^4.4.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
     "release1": "semantic-version",
-    "github-release": "conventional-github-releaser -p angular -r 0"
+    "github-release": "conventional-github-releaser -p angular -r 0",
+    "release:create": "create-release"
   },
   "repository": {
     "type": "git",
