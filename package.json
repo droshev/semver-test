@@ -5,8 +5,10 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "github-assistant": "^0.3.0",
     "semantic-release": "^15.13.27",
-    "standard-version": "^4.4.0"
+    "standard-version": "^4.4.0",
+    "release:create": "create-release"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
