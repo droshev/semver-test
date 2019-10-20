@@ -6,3 +6,6 @@ Testing Semantic Versioning
 4. new change
 5. new change
 6. new change
+
+
+`npm run release:create -- "--dry-run" "--debug" "--repo" "droshev/semver-test" "--tag" "0.3.0" "--branch" "master"`
